@@ -1,0 +1,17 @@
+{
+	"name": "kidsjs",
+	"version": "1.0.0",
+	"description": "kids implement in nodejs",
+	"author": {
+		"name": "wanglei",
+		"email": "lei@zhihu.com"
+	},
+	"dependencies": {
+		"redis": "*",
+		"dateformat": "*"
+	},
+	"devDependencies": {
+		"mocha": "*"
+	},
+	"main": "main.js"
+}

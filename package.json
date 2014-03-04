@@ -6,6 +6,7 @@
 		"name": "wanglei",
 		"email": "lei@zhihu.com"
 	},
+    "repository": "git@git.in.zhihu.com:lei/kidsjs.git",
 	"dependencies": {
 		"redis": "*",
 		"dateformat": "*"

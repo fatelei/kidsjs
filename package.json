@@ -1,6 +1,6 @@
 {
 	"name": "kidsjs",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "kids implement in nodejs",
 	"author": {
 		"name": "wanglei",
@@ -8,8 +8,8 @@
 	},
     "repository": "git@git.in.zhihu.com:lei/kidsjs.git",
 	"dependencies": {
-		"redis": "*",
-		"dateformat": "*"
+		"redis": "~2.2.5",
+		"dateformat": "~1.0.11"
 	},
 	"devDependencies": {
 		"mocha": "*"

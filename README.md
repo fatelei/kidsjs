@@ -1,4 +1,4 @@
-#  Kids Node.js client.
+#  [Kids](https://github.com/zhihu/kids) Node.js client.
 
 ![Build Status](https://travis-ci.org/fatelei/kidsjs.svg)
 

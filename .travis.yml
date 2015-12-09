@@ -1,0 +1,13 @@
+sudo: false
+
+language: node_js
+services:
+  - redis
+node_js:
+  - "4.2.3"
+  - "5.2.0"
+before_script:
+  - npm install -g jasmine
+  - npm install
+script:
+  - jasmine
